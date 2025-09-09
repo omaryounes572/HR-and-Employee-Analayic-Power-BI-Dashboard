@@ -32,16 +32,15 @@ This project provides HR teams with insights to reduce employee turnover, improv
 ---
 
 ## 📷 Screenshot
-<img width="1177" height="568" alt="image" src="https://github.com/user-attachments/assets/51471336-6aa9-477d-9c6b-dc2f93bb4b53" />
-<img width="1204" height="673" alt="image" src="https://github.com/user-attachments/assets/491ffd94-053d-4bb2-97fc-421b2a6122e4" />
-<img width="1207" height="672" alt="image" src="https://github.com/user-attachments/assets/310a21bb-c186-4670-a49d-35c862d518d5" />
-<img width="1209" height="684" alt="image" src="https://github.com/user-attachments/assets/9cf50b3f-5a50-42be-a3cd-aeefa16c738e" />
-<img width="1218" height="669" alt="image" src="https://github.com/user-attachments/assets/b6231abc-3b21-4040-a83a-f25248b3e30a" />
-<img width="1204" height="676" alt="image" src="https://github.com/user-attachments/assets/8012327b-cab4-438d-b518-5e6b4fcb83d5" />
-<img width="1201" height="681" alt="image" src="https://github.com/user-attachments/assets/cb6c87ec-c44a-4444-826a-f33714afb252" />
+<img width="993" height="577" alt="image" src="https://github.com/user-attachments/assets/d17b736a-b96c-4b56-b205-a476b4bd8762" />
 
 
-
+<img width="985" height="564" alt="image" src="https://github.com/user-attachments/assets/0cba1daf-10aa-4455-b6cf-baae4fffd60b" />
+<img width="985" height="574" alt="image" src="https://github.com/user-attachments/assets/feada3da-c886-4484-987b-b6ecb6ad397a" />
+<img width="979" height="567" alt="image" src="https://github.com/user-attachments/assets/0ecb0edf-7b48-4032-8312-4c47c00e7418" />
+<img width="982" height="559" alt="image" src="https://github.com/user-attachments/assets/9fb58a6f-6947-4305-8de0-7781da7f9bf4" />
+<img width="982" height="562" alt="image" src="https://github.com/user-attachments/assets/e5920ad1-36a6-4489-abce-008b05f6c2e3" />
+<img width="981" height="571" alt="image" src="https://github.com/user-attachments/assets/16499052-1d4e-4780-9ea0-dee34fac3030" />
 
 
 
